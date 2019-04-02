@@ -1,0 +1,1 @@
+print("hello","world", "welcome",2, None, "Something")
